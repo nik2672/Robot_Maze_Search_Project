@@ -6,3 +6,4 @@ HOW TO RUN ON CLI:
 
 GUI OUT EXAMPLE (Maps route taken, algorithm used, inital position and goals: 
 ![image](https://github.com/user-attachments/assets/ca91b847-ae28-47b2-9c1d-874c694acd4f)
+/
